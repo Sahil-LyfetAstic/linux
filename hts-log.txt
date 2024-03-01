@@ -1,0 +1,171 @@
+HTTrack3.49-5 launched on Sat, 24 Feb 2024 11:57:31 at https://quickref.me/chmod.html
+(httrack https://quickref.me/chmod.html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:57:49	Error: 	"Not Found" (404) at link https://quickref.me/QuickRef.ME (from https://quickref.me/chmod.html)
+12:00:16	Error: 	"Not Found" (404) at link https://quickref.me/atom.xml (from https://quickref.me/chmod.html)
+12:03:23	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=gjnio (from https://quickref.me/)
+12:03:23	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=y24nvh (from https://quickref.me/)
+12:10:41	Error: 	"Not Found" (404) at link https://quickref.me/3,5 (from https://quickref.me/bash)
+12:11:48	Error: 	"Not Found" (404) at link https://quickref.me/notes/QuickRef.ME (from https://quickref.me/notes/)
+12:11:48	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=91zdx (from https://quickref.me/notes/)
+12:11:48	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=huppa (from https://quickref.me/notes/)
+12:12:53	Warning: 	Link https://quickref.me/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_AMS-Regular.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_AMS-Regular.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_AMS-Regular.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Caligraphic-Bold.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Caligraphic-Bold.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Caligraphic-Bold.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Caligraphic-Regular.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Caligraphic-Regular.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Caligraphic-Regular.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Fraktur-Bold.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Fraktur-Bold.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Fraktur-Bold.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Fraktur-Regular.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Fraktur-Regular.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Fraktur-Regular.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Main-Bold.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Main-Bold.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Main-Bold.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Main-BoldItalic.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Main-BoldItalic.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Main-BoldItalic.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Main-Italic.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Main-Italic.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Main-Italic.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Main-Regular.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Main-Regular.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Main-Regular.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Math-BoldItalic.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Math-BoldItalic.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Math-BoldItalic.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Math-Italic.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Math-Italic.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Math-Italic.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_SansSerif-Bold.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_SansSerif-Bold.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_SansSerif-Bold.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_SansSerif-Italic.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_SansSerif-Italic.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_SansSerif-Italic.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_SansSerif-Regular.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_SansSerif-Regular.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_SansSerif-Regular.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Script-Regular.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Script-Regular.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Script-Regular.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Size1-Regular.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Size1-Regular.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Size1-Regular.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Size2-Regular.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Size2-Regular.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Size2-Regular.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Size3-Regular.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Size3-Regular.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Size3-Regular.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Size4-Regular.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Size4-Regular.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Size4-Regular.ttf
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Typewriter-Regular.woff2
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Typewriter-Regular.woff
+12:12:54	Warning: 	File not parsed, looks like binary: https://quickref.me/zh-CN/style/fonts/KaTeX_Typewriter-Regular.ttf
+12:12:54	Error: 	"Not Found" (404) at link https://quickref.me/zh-CN/docs/(https://docs.nestjs.com/first-steps (from https://quickref.me/zh-CN/docs/nestjs.html)
+12:12:54	Error: 	"Not Found" (404) at link https://quickref.me/zh-CN/docs/swift.htmll (from https://quickref.me/zh-CN/docs/swiftui.html)
+12:12:54	Error: 	"Not Found" (404) at link https://quickref.me/zh/docs/latest/tutorial/window-customization (from https://quickref.me/zh-CN/docs/electron.html)
+12:12:54	Error: 	"Not Found" (404) at link https://quickref.me/zh-CN/docs/vim (from https://quickref.me/zh-CN/docs/regex.html)
+12:12:54	Error: 	"Not Found" (404) at link https://quickref.me/zh-CN/docs/­//m­ark­etp­lac­e.v­isu­als­tud­io.c­om­/it­ems­?it%C2%ADemN%C2%ADame%C2%AD=sk%C2%ADell%C2%ADock.just (from https://quickref.me/zh-CN/docs/justfile.html)
+12:12:54	Error: 	"Not Found" (404) at link https://quickref.me/zh-CN/docs/­//p­lug­ins.je­tbr­ain­s.c­om/­plu­gin­/18­658­-just (from https://quickref.me/zh-CN/docs/justfile.html)
+12:12:57	Error: 	"Not Found" (404) at link https://quickref.me/notes/2/QuickRef.ME (from https://quickref.me/notes/2/)
+12:12:57	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=b7dx2i (from https://quickref.me/notes/2/)
+12:12:57	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=jz3yr (from https://quickref.me/notes/2/)
+12:13:41	Error: 	"Not Found" (404) at link https://quickref.me/notes/3/QuickRef.ME (from https://quickref.me/notes/3/)
+12:13:41	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=ab072f (from https://quickref.me/notes/3/)
+12:13:41	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=49ety (from https://quickref.me/notes/3/)
+12:14:22	Error: 	"Not Found" (404) at link https://quickref.me/notes/29/QuickRef.ME (from https://quickref.me/notes/29/)
+12:14:22	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=7psux (from https://quickref.me/notes/29/)
+12:14:22	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=iu58p (from https://quickref.me/notes/29/)
+12:15:38	Error: 	"Not Found" (404) at link https://quickref.me/notes/4/QuickRef.ME (from https://quickref.me/notes/4/)
+12:15:38	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=ib9tv (from https://quickref.me/notes/4/)
+12:15:38	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=a7y72 (from https://quickref.me/notes/4/)
+12:16:07	Error: 	"Not Found" (404) at link https://quickref.me/notes/5/QuickRef.ME (from https://quickref.me/notes/5/)
+12:16:07	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=ayq0h (from https://quickref.me/notes/5/)
+12:16:07	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=m1o6p (from https://quickref.me/notes/5/)
+12:17:17	Error: 	"Not Found" (404) at link https://quickref.me/notes/28/QuickRef.ME (from https://quickref.me/notes/28/)
+12:17:17	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=zbb8xl (from https://quickref.me/notes/28/)
+12:17:17	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=z7zhd (from https://quickref.me/notes/28/)
+12:17:59	Error: 	"Not Found" (404) at link https://quickref.me/notes/27/QuickRef.ME (from https://quickref.me/notes/27/)
+12:17:59	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=vvnbt (from https://quickref.me/notes/27/)
+12:17:59	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=hlbp7 (from https://quickref.me/notes/27/)
+12:18:42	Error: 	"Not Found" (404) at link https://quickref.me/notes/6/QuickRef.ME (from https://quickref.me/notes/6/)
+12:18:42	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=nbf7u (from https://quickref.me/notes/6/)
+12:18:42	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=yswqzk (from https://quickref.me/notes/6/)
+12:19:12	Error: 	"Not Found" (404) at link https://quickref.me/notes/7/QuickRef.ME (from https://quickref.me/notes/7/)
+12:19:12	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=iv2q1 (from https://quickref.me/notes/7/)
+12:19:12	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=sc94cf (from https://quickref.me/notes/7/)
+12:19:57	Error: 	"Not Found" (404) at link https://quickref.me/notes/26/QuickRef.ME (from https://quickref.me/notes/26/)
+12:19:57	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=aox1j (from https://quickref.me/notes/26/)
+12:19:57	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=4z2tyk (from https://quickref.me/notes/26/)
+12:20:53	Error: 	"Not Found" (404) at link https://quickref.me/notes/25/QuickRef.ME (from https://quickref.me/notes/25/)
+12:20:53	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=d4ro6 (from https://quickref.me/notes/25/)
+12:20:53	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=i3xkm (from https://quickref.me/notes/25/)
+12:21:31	Error: 	"Not Found" (404) at link https://quickref.me/notes/8/QuickRef.ME (from https://quickref.me/notes/8/)
+12:21:31	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=cubsah (from https://quickref.me/notes/8/)
+12:21:31	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=daym9 (from https://quickref.me/notes/8/)
+12:22:16	Error: 	"Not Found" (404) at link https://quickref.me/notes/9/QuickRef.ME (from https://quickref.me/notes/9/)
+12:22:16	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=1p4bhi (from https://quickref.me/notes/9/)
+12:22:16	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=723o1 (from https://quickref.me/notes/9/)
+12:22:55	Error: 	"Not Found" (404) at link https://quickref.me/notes/24/QuickRef.ME (from https://quickref.me/notes/24/)
+12:22:55	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=n1y9u (from https://quickref.me/notes/24/)
+12:22:55	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=hj4cq (from https://quickref.me/notes/24/)
+12:24:04	Error: 	"Not Found" (404) at link https://quickref.me/notes/23/QuickRef.ME (from https://quickref.me/notes/23/)
+12:24:04	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=gq1ut (from https://quickref.me/notes/23/)
+12:24:04	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=bmqqy (from https://quickref.me/notes/23/)
+12:24:36	Error: 	"Not Found" (404) at link https://quickref.me/notes/10/QuickRef.ME (from https://quickref.me/notes/10/)
+12:24:36	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=rw7p2h (from https://quickref.me/notes/10/)
+12:24:36	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=n5x08k (from https://quickref.me/notes/10/)
+12:25:18	Error: 	"Not Found" (404) at link https://quickref.me/notes/11/QuickRef.ME (from https://quickref.me/notes/11/)
+12:25:18	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=82ijx (from https://quickref.me/notes/11/)
+12:25:18	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=cfz7l (from https://quickref.me/notes/11/)
+12:25:21	Error: 	"Not Found" (404) at link https://quickref.me/calculate-the-mod-of-collection- (from https://quickref.me/notes/11/)
+12:25:57	Error: 	"Not Found" (404) at link https://quickref.me/notes/22/QuickRef.ME (from https://quickref.me/notes/22/)
+12:25:57	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=k48w9 (from https://quickref.me/notes/22/)
+12:25:57	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=qmnkmj (from https://quickref.me/notes/22/)
+12:26:35	Error: 	"Not Found" (404) at link https://quickref.me/notes/21/QuickRef.ME (from https://quickref.me/notes/21/)
+12:26:35	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=gk4k (from https://quickref.me/notes/21/)
+12:26:35	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=v8ukb (from https://quickref.me/notes/21/)
+12:27:25	Error: 	"Not Found" (404) at link https://quickref.me/notes/12/QuickRef.ME (from https://quickref.me/notes/12/)
+12:27:25	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=ooajil (from https://quickref.me/notes/12/)
+12:27:25	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=r1vocg (from https://quickref.me/notes/12/)
+12:27:46	Error: 	"Not Found" (404) at link https://quickref.me/notes/13/QuickRef.ME (from https://quickref.me/notes/13/)
+12:27:46	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=16ld (from https://quickref.me/notes/13/)
+12:27:46	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=ebrp5 (from https://quickref.me/notes/13/)
+12:28:27	Error: 	"Not Found" (404) at link https://quickref.me/notes/20/QuickRef.ME (from https://quickref.me/notes/20/)
+12:28:27	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=ijdav (from https://quickref.me/notes/20/)
+12:28:27	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=38d24 (from https://quickref.me/notes/20/)
+12:28:56	Error: 	"Not Found" (404) at link https://quickref.me/notes/19/QuickRef.ME (from https://quickref.me/notes/19/)
+12:28:56	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=q7jnt (from https://quickref.me/notes/19/)
+12:28:56	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=28vl (from https://quickref.me/notes/19/)
+12:29:31	Error: 	"Not Found" (404) at link https://quickref.me/notes/14/QuickRef.ME (from https://quickref.me/notes/14/)
+12:29:31	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=3bju2i (from https://quickref.me/notes/14/)
+12:29:31	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=qryv8 (from https://quickref.me/notes/14/)
+12:30:24	Error: 	"Not Found" (404) at link https://quickref.me/notes/15/QuickRef.ME (from https://quickref.me/notes/15/)
+12:30:24	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=w8nzk (from https://quickref.me/notes/15/)
+12:30:24	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=d07jt (from https://quickref.me/notes/15/)
+12:30:36	Error: 	"Not Found" (404) at link https://quickref.me/notes/18/QuickRef.ME (from https://quickref.me/notes/18/)
+12:30:36	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=77mtel (from https://quickref.me/notes/18/)
+12:30:36	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=lmys5f (from https://quickref.me/notes/18/)
+12:31:03	Error: 	"Not Found" (404) at link https://quickref.me/notes/17/QuickRef.ME (from https://quickref.me/notes/17/)
+12:31:03	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=jpv6m (from https://quickref.me/notes/17/)
+12:31:03	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=h1oaa (from https://quickref.me/notes/17/)
+12:31:21	Error: 	"Not Found" (404) at link https://quickref.me/notes/16/QuickRef.ME (from https://quickref.me/notes/16/)
+12:31:21	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=5j096 (from https://quickref.me/notes/16/)
+12:31:21	Error: 	"Forbidden" (403) at link https://quickref.me/assets/image/?v=1kr3g (from https://quickref.me/notes/16/)
+
+HTTrack Website Copier/3.49-5 mirror complete in 34 minutes 8 seconds : 2127 links scanned, 2027 files written (235904761 bytes overall) [185620399 bytes received at 90634 bytes/sec], 68498030 bytes transferred using HTTP compression in 1190 files, ratio 22%, 28.8 requests per connection
+(99 errors, 61 warnings, 0 messages)
